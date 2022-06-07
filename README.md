@@ -12,7 +12,7 @@ Create your own Google Sheets event tracker with [this template](https://docs.go
 Click on `File` > `Make a copy` in the navigation bar:
 ![copy_template](https://github.com/quandollar/event-email-reminder/blob/main/demo_assets/copy_template.png)
 
-Rename the file and select its location, but leave attached script as-is:
+Rename the file and select its location as you'd like, but leave the attached script as-is:
 ![copy_template_2](https://github.com/quandollar/event-email-reminder/blob/main/demo_assets/copy_template_2.png)
 
 In the newly copied Google Sheets file, fill out a pseudo event that takes place today so we can test the template.
@@ -24,6 +24,7 @@ Voila! You should see the event reminder email appearing in your inbox:
 ![test_email](https://github.com/quandollar/event-email-reminder/blob/main/demo_assets/test_email.png)
 
 Now that we know the script works, return to the Google Apps Script window and click on `Triggers` on the side navigation bar.
+
 ![triggers](https://github.com/quandollar/event-email-reminder/blob/main/demo_assets/triggers.png)
 
 These settings dictate when the script will automatically run. Below is my recommendation.
